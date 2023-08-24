@@ -30,6 +30,50 @@ title: 莫老师的附件表
 
 <HR>
 
+##### **EP117 - 在手机上玩王国之泪？一加Ace2 Pro模拟器游戏实测体验**
+
+● PPSSPP（PSP模拟器）：https://www.ppsspp.org
+
+● Cirta（3DS模拟器）：https://citra-emu.org/download
+
+● Dolphin（Wii模拟器）：https://cn.dolphin-emu.org/download
+
+● AetherSX2（PS2模拟器）：https://www.aethersx2.com/archive
+
+● AetherSX2（模拟器）BIOS合集：https://pan.quark.cn/s/2b3a6c9c6141 （提取码：4zRJ）
+
+● YUZU（SWITCH模拟器）：https://yuzu-emu.org/downloads/#android
+
+● YUZU（骁龙8Gen2 GPU驱动）：https://pan.quark.cn/s/a87ca829a89e （提取码：GBDL）
+
+
+
+<HR>
+
+##### **EP116 - 你的下一台蓝光播放器，也许是NAS？聊聊极空间Z2Pro的影音功能**
+
+● <font color="#FF8C00">极空间Z2PRO个人私有云：</font>https://m.tb.cn/h.5dFWd5h
+
+<HR>
+
+##### **EP115 - 2种方法远程重装系统，拯救异地女友被流氓软件“纠缠”的电脑！**
+
+● ToDesk（官网）：https://www.todesk.com
+
+● EasyEC（官网）：https://firpe.cn/page-196
+
+● EasyRC（夸克）：https://pan.quark.cn/s/815ea8cca062 （提取码：vKcm）
+
+● UltraISO软碟通下载（夸克）：https://pan.quark.cn/s/2c6cabad3aa5 （提取码：T8r3）
+
+● 雷电PE win10内核（夸克）：https://pan.quark.cn/s/421cab0a1b1e （提取码：V66Y）
+
+● 雷电PE win11内核（夸克）：https://pan.quark.cn/s/5d4f7969ab78 （提取码：wXmZ）
+
+● PETOOLS莫老师修改版（夸克）：https://pan.quark.cn/s/d16812991eeb （提取码：J5fp）
+
+<HR>
+
 ##### **EP114 - 超简单制作WTG、系统U盘，小巧精悍的写盘软件，Rufus使用指南**
 
 ● Rufus（官网）：https://rufus.ie/
@@ -46,14 +90,14 @@ title: 莫老师的附件表
 
 ● EasyRC（夸克）：https://pan.quark.cn/s/815ea8cca062 （提取码：vKcm）
 
-● Win10 22H2（微软官方节点）：*请使用迅雷等下载软件进行下载*
+● Win10 22H2（微软官方节点）：*请使用迅雷等第三方下载软件进行下载*
 
 ```
-ed2k://|file|zh-cn_windows_11_business_editions_version_22h2_updated_april_2023_x64_dvd_7f3f319b.iso|5699682304|7226C84203584BDC33A1E8694C6C570E|/
+ed2k://|file|zh-cn_windows_10_business_editions_version_22h2_updated_april_2023_x64_dvd_c03ed5aa.iso|5971707904|EED818987B8BC17F6DDC201E977A4F95|/
 ```
 
 ```
-magnet:?xt=urn:btih:509989ac652c2f748c894ab77c9e2faa336cd826&dn=zh-cn_windows_11_business_editions_version_22h2_updated_april_2023_x64_dvd_7f3f319b.iso
+magnet:?xt=urn:btih:84a9c3c817073e64b2ece7a9a6d6ea47782cdc88&dn=zh-cn_windows_10_business_editions_version_22h2_updated_april_2023_x64_dvd_c03ed5aa.iso
 ```
 
 <HR>
